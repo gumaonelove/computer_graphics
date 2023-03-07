@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+/*/*/*.xcodeproj/
+/*.xcworkspace/
+.DS_Store
+.DS_Store
+*.xcuserstate
+*.plist
+*.xml
+/cmake-build-debug/
+/Untitled.xcworkspace/
